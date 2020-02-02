@@ -3,7 +3,7 @@ def my_hash
 end
 
 
-def shipping_manifest
+def shipping_manifest =
   
 
 
